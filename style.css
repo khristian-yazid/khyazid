@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  align-items: center;
+  color: black;
+  display: flex;
+  height: 100px;
+  top: 0px;
+  width: 100%;
+  background-color: #323647;
+  justify-content: space-between;
+}
+
+.header__img {
+  margin-left: 30px;
+  width: 100px;
+}
+
+.header__container-info {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 30px;
+  margin: 3%;
+  font-size: 20px;
+}
+
+.header__container-info a {
+  text-decoration: none;
+  color: #eaebef;
+  margin-right: 50px;
+}
+
+.main {
+  width: 100%;
+  height: 500px;
+  background-color: #323647;
+  display: flex;
+  align-items: center;
+  background-image: url("./cr7.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.main__container--perfil {
+  width: 100%;
+}
+.main__name {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 80px;
+  margin-bottom: 120px;
+}
+.main__name h1 {
+  color: white;
+  font-size: 72px;
+  text-align: right;
+  text-align: inherit;
+}
+
+.main__name span {
+  text-align: left;
+}
+.main__container--info {
+  width: 100%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main__social {
+  padding-left: 165px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.main__social img {
+  width: 30px;
+  height: 30px;
+}
+
+.main__info {
+  width: 50%;
+}
+
+.info__title {
+  font-size: 16px;
+  color: #989aa2;
+}
+
+.main__container--info h2 {
+  font-size: 18px;
+}
+
+.main__container--info {
+  font-size: 18px;
+}
+
+.section {
+  background-color: #242734;
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.section__container{
+    margin: 76px;
+    display: flex;
+    align-items: center;
+    background-color: #323648;
+}
+
+.section__container--skills {
+  width: 300px;
+  height: 300px;
+}
+
+.skills__picture {
+  width: 250px;
+  height: 250px;
+}
