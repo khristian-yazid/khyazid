@@ -67,15 +67,14 @@ font-family: 'Roboto Mono', monospace;
 .main__name {
   display: flex;
   justify-content: flex-end;
-  margin-right: -90px;
   margin-bottom: 130px;
+  flex-direction: column;
 }
 .main__name h1 {
   z-index: 1;
   color: #5A98BF;
   font-size: 72px;
-  text-align: right;
-  text-align: inherit;
+  text-align: center;
 }
 
 .main__name span {
@@ -91,7 +90,6 @@ font-family: 'Roboto Mono', monospace;
 }
 
 .main__social {
-  padding-left: 165px;
   display: flex;
   justify-content: space-evenly;
 }
@@ -102,7 +100,7 @@ font-family: 'Roboto Mono', monospace;
 }
 
 .main__info {
-  width: 50%;
+  width: 65%;
 }
 
 .info__title {
