@@ -6,6 +6,12 @@ body {
 * {
   box-sizing: border-box;
 }
+/*
+fonts family
+font-family: 'Arvo', serif;
+font-family: 'Fira Mono', monospace;
+font-family: 'Roboto Mono', monospace;
+*/
 
 .header {
   align-items: center;
@@ -14,7 +20,7 @@ body {
   height: 100px;
   top: 0px;
   width: 100%;
-  background-color: #323647;
+  background-color: #2d232e;
   justify-content: space-between;
 }
 
@@ -103,27 +109,23 @@ body {
 .main__container--info {
   font-size: 18px;
 }
-
-.section {
-  background-color: #242734;
-  height: 500px;
+.section__container {
   display: flex;
-  justify-content: space-around;
+  align-items: center;
+  background-color: #323648;
 }
-
-.section__container{
-    margin: 76px;
-    display: flex;
-    align-items: center;
-    background-color: #323648;
-}
-
-.section__container--skills {
-  width: 300px;
-  height: 300px;
-}
-
 .skills__picture {
-  width: 250px;
-  height: 250px;
+  width: 60px;
+  height: 60px;
+}
+
+.article__img {
+  width: 150px;
+  height: 150px;
+}
+
+.article {
+  display: flex;
+  align-items: center;
+  margin: 86px;
 }
