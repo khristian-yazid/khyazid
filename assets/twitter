@@ -1,0 +1,1267 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54497470-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>Twitter reacciona a la caída de Google con más de 2 millones de menciones - TrendTICTrendTIC</title>
+
+<link rel="shortcut icon" href="https://www.trendtic.cl/wp-content/uploads/2018/10/favicon-trendtic-2-01.png"/><link rel="pingback" href="https://www.trendtic.cl/xmlrpc.php" />
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<!-- This site is optimized with the Yoast SEO plugin v9.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.trendtic.cl/2020/12/twitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Twitter reacciona a la caída de Google con más de 2 millones de menciones - TrendTIC" />
+<meta property="og:description" content="Luego que Google emitiera un comunicado oficial, confirmando las fallas que presentaban algunos de sus productos se empezaron a generar algunos memes en torno a los acontecimientos que han marcado el 2020. Santiago, 15 de diciembre de 2020.- La Agencia de Marketing Digital, Rompecabeza, realizó un monitoreo de la conversación en Twitter evidenciada este 14 &hellip;" />
+<meta property="og:url" content="https://www.trendtic.cl/2020/12/twitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones/" />
+<meta property="og:site_name" content="TrendTIC" />
+<meta property="article:section" content="Noticias y más" />
+<meta property="article:published_time" content="2020-12-15T09:48:59+00:00" />
+<meta property="article:modified_time" content="2020-12-14T22:55:14+00:00" />
+<meta property="og:updated_time" content="2020-12-14T22:55:14+00:00" />
+<meta property="og:image" content="https://www.trendtic.cl/wp-content/uploads/2014/08/Twitter_logo_blue.png" />
+<meta property="og:image:secure_url" content="https://www.trendtic.cl/wp-content/uploads/2014/08/Twitter_logo_blue.png" />
+<meta property="og:image:width" content="1139" />
+<meta property="og:image:height" content="926" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TrendTIC &raquo; Feed" href="https://www.trendtic.cl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TrendTIC &raquo; RSS de los comentarios" href="https://www.trendtic.cl/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TrendTIC &raquo; Twitter reacciona a la caída de Google con más de 2 millones de menciones RSS de los comentarios" href="https://www.trendtic.cl/2020/12/twitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.trendtic.cl\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.13"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<!-- managing ads with Advanced Ads – https://wpadvancedads.com/ -->		<script>
+			//@formatter:off
+						advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+						</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='validate-engine-css-css'  href='https://www.trendtic.cl/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.trendtic.cl/wp-includes/css/dist/block-library/style.min.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='adsns_css-css'  href='https://www.trendtic.cl/wp-content/plugins/adsense-plugin/css/adsns.css?ver=1.47' type='text/css' media='all' />
+<link rel='stylesheet' id='unslider-css-css'  href='https://www.trendtic.cl/wp-content/plugins/advanced-ads-slider/public/assets/css/unslider.css?ver=1.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css-css'  href='https://www.trendtic.cl/wp-content/plugins/advanced-ads-slider/public/assets/css/slider.css?ver=1.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.trendtic.cl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='minnitchatstyle-css'  href='https://www.trendtic.cl/wp-content/plugins/minnit-chat/minnit.css?minnitversion=2.0.7&#038;ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='post_grid_style-css'  href='https://www.trendtic.cl/wp-content/plugins/post-grid/assets/frontend/css/style-new.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.carousel-css'  href='https://www.trendtic.cl/wp-content/plugins/post-grid/assets/frontend/css/owl.carousel.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.trendtic.cl/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='style-woocommerce-css'  href='https://www.trendtic.cl/wp-content/plugins/post-grid/assets/frontend/css/style-woocommerce.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='style.skins-css'  href='https://www.trendtic.cl/wp-content/plugins/post-grid/assets/global/css/style.skins.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='style.layout-css'  href='https://www.trendtic.cl/wp-content/plugins/post-grid/assets/global/css/style.layout.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='SFSImainCss-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='disable_sfsi-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-social-media-icons/css/disable_sfsi.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://www.trendtic.cl/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://www.trendtic.cl/wp-content/themes/storm/style.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='https://www.trendtic.cl/wp-content/themes/storm/css/flexslider.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='bkstyle-css'  href='https://www.trendtic.cl/wp-content/themes/storm/css/bkstyle.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='https://www.trendtic.cl/wp-content/themes/storm/css/responsive.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='fa-css'  href='https://www.trendtic.cl/wp-content/themes/storm/css/fonts/awesome-fonts/css/font-awesome.min.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='evcal_google_fonts-css'  href='http://fonts.googleapis.com/css?family=Oswald%3A400%2C300%7COpen+Sans%3A400%2C300&#038;ver=5.0.13' type='text/css' media='screen' />
+<link rel='stylesheet' id='evcal_cal_default-css'  href='https://www.trendtic.cl/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='evo_font_icons-css'  href='https://www.trendtic.cl/wp-content/plugins/eventON/assets/fonts/font-awesome.css?ver=5.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='popular-widget-css'  href='https://www.trendtic.cl/wp-content/plugins/popular-widget/_css/pop-widget.css?ver=1.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_ii-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_fa-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_crop-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_modal-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_styles-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-styles.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_profile-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-profile.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_account-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-account.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_misc-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-misc.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fileupload-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-fileupload.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/pickadate/default.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_date-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_time-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_raty-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-raty.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_scrollbar-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/simplebar.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_tipsy-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_responsive-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-responsive.css?ver=2.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='um_default_css-css'  href='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/css/um-old-default.css?ver=2.1.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/advanced-ads-slider/public/assets/js/unslider.min.js?ver=1.4.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.move.js?ver=1.4.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/advanced-ads-slider/public/assets/js/jquery.event.swipe.js?ver=1.4.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var post_grid_ajax = {"post_grid_ajaxurl":"https:\/\/www.trendtic.cl\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/post-grid/assets/frontend/js/scripts.js?ver=5.0.13'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/post-grid/assets/frontend/js/owl.carousel.min.js?ver=5.0.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/www.trendtic.cl\/wp-json\/wordpress-popular-posts\/v1\/popular-posts\/","ID":"25721","token":"1ce565f592","debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/wordpress-popular-posts/public/js/wpp-4.2.0.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/advanced-ads/public/assets/js/advanced.js?ver=1.17.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_responsive = {"reload_on_resize":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/advanced-ads-responsive/public/assets/js/script.js?ver=1.8.10'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/advanced-ads-pro/assets/advanced-ads-pro.js?ver=2.6.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_pro_ajax_object = {"ajax_url":"https:\/\/www.trendtic.cl\/wp-admin\/admin-ajax.php","lazy_load_module_enabled":"","lazy_load":{"default_offset":0,"offsets":[]},"moveintohidden":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/advanced-ads-pro/modules/cache-busting/inc/base.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js?ver=2.1.6'></script>
+
+<script type="text/javascript" charset="utf-8">
+	(function(){
+		try {
+			// Disabling SWFObject's Autohide feature
+			if (typeof swfobject.switchOffAutoHideShow === "function") {
+				swfobject.switchOffAutoHideShow();
+			}
+		} catch(e) {}
+	})();
+</script>
+<link rel='https://api.w.org/' href='https://www.trendtic.cl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.trendtic.cl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.trendtic.cl/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.13" />
+<link rel='shortlink' href='https://www.trendtic.cl/?p=25721' />
+<link rel="alternate" type="application/json+oembed" href="https://www.trendtic.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.trendtic.cl%2F2020%2F12%2Ftwitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.trendtic.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.trendtic.cl%2F2020%2F12%2Ftwitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones%2F&#038;format=xml" />
+<!-- <meta name="NextGEN" version="3.1.1" /> -->
+		<style type="text/css">
+			.um_request_name {
+				display: none !important;
+			}
+		</style>
+	<script>advads_items = { conditions: {}, display_callbacks: {}, display_effect_callbacks: {}, hide_callbacks: {}, backgrounds: {}, effect_durations: {}, close_functions: {}, showed: [] };</script><style type="text/css" id="trend-layer-custom-css"></style><script type="text/javascript">
+		var advadsCfpQueue = [];
+		var advadsCfpAd = function( adID ){
+			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
+		};
+		</script>        <script type="text/javascript">
+            var ajaxurl = 'https://www.trendtic.cl/wp-admin/admin-ajax.php';
+        </script>
+    
+
+<!-- EventON Version -->
+<meta name="generator" content="EventON 2.2.14" />
+
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.trendtic.cl");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '5b932f13-b3ea-43d0-ac8d-958ceafc7a38';
+oneSignal_options['autoRegister'] = false;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Trendtic";
+oneSignal_options['welcomeNotification']['message'] = "Gracias por suscribirte";
+oneSignal_options['welcomeNotification']['url'] = "www.trendtic.cl";
+oneSignal_options['subdomainName'] = "trendtic";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.64337d6b-67cd-4296-b41c-d41bc6b4a874";
+oneSignal_options['persistNotification'] = false;
+oneSignal_options['promptOptions'] = { };
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+            <style type='text/css' media="all">
+            .reviewscore {display: none;}.post-meta .views {display: none;}.post-meta .read-more {display: none;} 
+                .top-bar, .overlay-card, #main-menu .menu > li:hover, .bk-meta:before, .header-custom .main-nav .header-inner,
+                .bk-mega-menu, .bk-dropdown-menu, .main-nav #s, .search-icon i, .main-nav .mobile,
+                 
+                .icon-thumb, .post-info-line, .grid-container .post-cat:after, .module-carousel .post-cat:after, .bk-card-content .post-cat:after, .post-cat-bg, #back-top:hover,
+                
+                .bk-header h3, .cat-header h3, .widget-tabs-title-container li.active h3, h3.ticker-header,
+                
+                .comment-navigation a, .comment.bypostauthor > .comment-article > .comment-author > .comment-author-name:after, #comment-submit, .add-comment-btn, .cat-btn, .tag-btn, .bkpaginate-current, .bkpaginate a:hover, .tagcloud a:hover, .widget_search #search-form #search-submit,
+                .widget-facebook h4, .widget_flickr h4, .widget_calendar h4, .widget_youtube_subscribe .widget-title , .widget_recent_comments h4, .widget_links h4, .widget_search h4, .widget_tag_cloud h4, .widget_categories h4, .widget_recent h4, .widget_archive h4, .widget_meta h4, .widget_pages h4, .widget_recent_entries h4, .widget_nav_menu h4, .widget_text h4, .widget_rss h4,
+                .widget_archive ul li, .widget_categories ul li, .widget_calendar #wp-calendar caption, .widget_calendar #today, .widget_tag_cloud a,
+                
+                .bk-score-box-wrap, .rating-wrap, .reviewscore, .bk-bar-ani, .bk-score-box, .heading-wrap hr, #pagination .current, .post-page-links > span, .button-primary
+                
+                    {background-color: #c80000}
+                
+                a, .post-title:hover a, .module-carousel .post-title a:hover, .module-carousel .post-cat a:hover, .post-meta .read-more a:hover, .post-nav-link-title h3:hover, .flexslider .flex-direction-nav a:hover, .module-hero .main-post.hero-video .post-details .post-title a:hover,
+                 
+                .bk-sub-posts .post-title.post-title-card:hover a, .bk-dropdown-menu .bk-sub-sub-menu a, .widget_nav_menu li a:hover, #main-mobile-menu .expand i,
+                .header-dark .main-nav #main-menu .menu > li.current-menu-item > a, .header-light .main-nav #main-menu .menu > li.current-menu-item > a,
+                 
+                .recentcomments, .post-author a, .comment-author, .single .author a, .page .author a, .bk-author-page-contact a:hover, #pagination a:hover, .post-page-links a:hover span,
+                
+                ul.ticker li h2:before, #bk-404-wrap .redirect-home i, .footer .bk-header h3, .footer .widget-tabs-title-container li.active h3 a, .widget_tag_cloud a:hover, .footer .widget_rss h3 a, .widget_nav_menu li a, .widget_recent_comments .recentcomments a:last-child
+                
+                    {color: #c80000}
+                
+                ::selection
+                {background-color: #c80000}
+                ::-moz-selection 
+                {background-color: #c80000}
+                body::-webkit-scrollbar-thumb
+                {background-color: #c80000}
+                
+                .mask-1, .mask-2, .bk-score-box.reverse, .reviewscore.reverse , .bk-review-box .bk-overlay, .bk-author-box , .tagcloud a, .load-more span:hover, ul#flickr li a:hover img, .post-meta .read-more:hover, .header-light .main-nav #main-menu, .article-content blockquote, #bk-carousel-gallery-thumb li.flex-active-slide, #pagination .current, .post-page-links > span, .widget_pages li, .widget_meta li
+                {border-color: #c80000}
+                
+                .widget-tabs-title-container li.active:after, .module-header-left .bk-header h3:after, .module-header-left .cat-header h3:after, h3.ticker-header:after 
+                {border-left-color: #c80000;border-right-color: #c80000}
+                
+                .widget-tabs-title-container li.active:nth-child(n+2):before {border-top-color: #c80000}
+                 
+                
+        
+                            .main-nav .header-inner, #main-mobile-menu, .header-custom .top-bar, .header-custom #main-menu .menu > li:hover, .header-custom .bk-mega-menu,
+                .header-custom .bk-dropdown-menu, .header-custom .main-nav #s, .header-custom .main-nav .search-icon i, .header-custom .main-nav .mobile,
+                
+                 .widget-tabs-title-container, .widget-tabs-title-container li h4, .widget-tabs-title-container li h3, .cat-header, .bk-header, .bk-review-box .bk-overlay, 
+                 
+                 .module-carousel .style-thumb, #bk-carousel-gallery-thumb, .cat-btn:hover, .tag-btn:hover, .add-comment-btn:hover, #comment-submit:hover, .post-cat-bg:hover,
+                 .widget_calendar tfoot tr              
+                
+                    {background-color: #545454}
+                    
+                .header-custom .main-nav #main-menu .menu > li.current-menu-item > a,
+                .load-more span, .bk-mega-menu .bk-sub-sub-menu > li > a, .bk-dropdown-menu .bk-sub-sub-menu a, .header-light .main-nav #main-menu .menu > li > a, #pagination a, #pagination span, .post-page-links a span           
+                
+                    {color: #545454}
+                    
+                .load-more .inner, #pagination a, .post-page-links a span
+                
+                    {border-color: #545454}
+                
+                
+                
+                            body {background: none !important}
+                                                    </style>
+            <style type ="text/css">.eventon_events_list .eventon_list_event .desc_trig{background-color:#fafafa}.eventon_events_list .eventon_list_event .desc_trig:hover{background-color:#f4f4f4}.ajde_evcal_calendar .calendar_header p, 
+			.eventon_events_list .eventon_list_event .evcal_cblock, .evcal_cblock, .eventon_events_list .eventon_list_event .evcal_desc span.evcal_desc2, .evcal_desc span.evcal_desc2, .evcal_evdata_row .evcal_evdata_cell h2, .evcal_evdata_row .evcal_evdata_cell h3.evo_h3, .evcal_month_line p, .evo_clik_row .evo_h3{font-family:oswald, 'arial narrow'}.ajde_evcal_calendar .evo_sort_btn, .eventon_sf_field p, .evo_srt_sel p.fa{color:#B8B8B8}.ajde_evcal_calendar .evo_sort_btn:hover{color:#d8d8d8}#evcal_list .eventon_list_event .evcal_desc em{color:#8c8c8c}#evcal_list .eventon_list_event .event_description .evcal_btn, .evo_pop_body .evcal_btn{color:#ffffff;background:#237ebd;}#evcal_list .eventon_list_event .event_description .evcal_btn:hover, .evo_pop_body .evcal_btn:hover{color:#fff;background:#237ebd;}.evcal_evdata_row .evcal_evdata_icons i, .evcal_evdata_row .evcal_evdata_custometa_icons i{color:#6B6B6B;font-size:18px;}#eventon_loadbar{background-color:#6B6B6B}.evcal_evdata_row .evcal_evdata_cell h3, .evo_clik_row .evo_h3{font-size:18px}#evcal_list .eventon_list_event .evcal_cblock{color:#ABABAB}.evcal_evdata_row .evcal_evdata_cell h2, .evcal_evdata_row .evcal_evdata_cell h3{color:#6B6B6B}#evcal_list .eventon_list_event .evcal_eventcard p{color:#656565}.ajde_evcal_calendar #evcal_head.calendar_header #evcal_cur, .ajde_evcal_calendar .evcal_month_line p{color:#C6C6C6}.eventon_events_list .eventon_list_event .evcal_eventcard, .evcal_evdata_row, .evorow .tbrow{background-color:#EAEAEA}#evcal_list .eventon_list_event .evcal_desc span.evcal_event_title{color:#6B6B6B}.fp_popup_option i{color:#999;font-size:22px;}.evo-jumper span{color:#ffffff;background-color:#d3d3d3;}.evo-jumper span:hover{color:#ffffff;background-color:#d3d3d3;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a{color:#ffffff;background-color:#ECECEC;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a:hover{color:#ffffff;background-color:#c3c3c3;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a.current{color:#ffffff;background-color:#CFCFCF;}.ajde_evcal_calendar .calendar_header .evo_j_dates p a.set{color:#ffffff;background-color:#888888;}.ajde_evcal_calendar .calendar_header .evo_j_dates p.legend{color:#6e6e6e;}.ajde_evcal_calendar .calendar_header .evcal_arrows{color:#e2e2e2;border-color:#e2e2e2;background-color:#ffffff;}.ajde_evcal_calendar .calendar_header .evcal_arrows:hover{color:#e2e2e2;border-color:#e2e2e2;background-color:#e2e2e2;}.evcal_event_details .evcal_evdata_cell .eventon_details_shading_bot{
+		background: -moz-linear-gradient(top,  rgba(234,234,234,0) 0%, rgba(234,234,234,0.01) 1%, rgba(234,234,234,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(234,234,234,0)), color-stop(1%,rgba(234,234,234,0.01)), color-stop(100%,rgba(234,234,234,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(234,234,2344,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(234,234,234,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(234,234,234,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(234,234,234,0) 0%,rgba(234,234,234,0.01) 1%,rgba(234,234,234,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00eaeaea', endColorstr='#eaeaea',GradientType=0 ); /* IE6-9 */
+	}</style><style type="text/css" title="dynamic-css" class="options-output">.header-wrap{background-color:transparent;}.reviewscore, .score, .bk-final-score, .bk-criteria, .bk-criteria-score, .post-meta, h3.ticker-header, .top-nav .menu li > a, .main-nav ul > li > a, .widget-tabs-title-container li h3, .widget-tabs-title-container li h4, .cat-header h3,
+                             .post-cat, .add-comment-btn, .cat-btn, .tag-btn, .block-title, .bk-header h3, #comments h3, #comments h4, #respond h3, #respond h4, #comment-submit,
+                             .widget_flickr h4, .widget-facebook h4, .widget_rss h4, .widget_calendar h4, .widget_youtube_subscribe .widget-title , .widget_recent_comments h4, .widget_links h4, .widget_search h4, .widget_tag_cloud h4, .widget_categories h4, .widget_recent h4, .widget_archive h4, .widget_meta h4, .widget_pages h4, .widget_recent_entries h4, .widget_nav_menu h4, .widget_text h4, .widget_nav_menu li a,
+                             .load-more-text{font-family:Open Sans Condensed;font-weight:300;font-style:normal;}h1, h2, h3, h4, h5, h5, h6, .post-title , .post-title-card , .grid-container .post-info .post-title , .post-title.post-title-masonry, .post-nav-link-title h3,
+                            .recentcomments a:last-child, ul.ticker li h2 a, .header .logo.logo-text h1, .widget_recent_entries a{font-family:Scada;font-weight:400;font-style:normal;}body, textarea, input, p, 
+                            .entry-excerpt, .comment-text, .comment-author, .article-content,
+                            .comments-area, .tag-list, .bk-author-meta h3 {font-family:Droid Sans;font-weight:400;font-style:normal;}</style><link rel="stylesheet" id="options-google-fonts"  href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic%7CScada:400,700,400italic,700italic%7CDroid+Sans:400,700&amp;subset=greek,latin&amp;v=1595802691" type="text/css" media="all" /><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '744072643031410'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=744072643031410&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->    
+</head>
+
+<body class="post-template-default single single-post postid-25721 single-format-standard elementor-default" itemscope itemtype="http://schema.org/Article" >
+    <div class="site-container wide">
+    	<!-- page-wrap open-->
+    	<div class="page-wrap module-header-left clear-fix">
+    
+    		<!-- header-wrap open -->
+    		<div class="header-wrap header-left header-dark">
+            
+                                <!-- header open -->
+                <div class="header">
+                    <div class="header-inner">
+            			<!-- logo open -->
+                                    			<div class="logo">
+                            <h1>
+                                <a href="https://www.trendtic.cl">
+                                    <img src="https://www.trendtic.cl/wp-content/uploads/2018/10/logo-trendtic-5-01.png" alt="logo"/>
+                                </a>
+                            </h1>
+            			</div>
+            			<!-- logo close -->
+                                                                            <!-- header-banner open -->                             
+                			<div class="header-banner">
+                                                                <a class="ads-banner-link" target="_blank" href="http://www.cybertrust.cl">
+                    				    <img class="ads-banner" src="https://www.trendtic.cl/wp-content/uploads/2017/03/Banner_TrendTIC-728x90px-03-e1497362247705.jpg" alt="Header Banner"/>
+                                    </a>
+                                 
+                			</div>                            
+                			<!-- header-banner close -->
+                                            </div>   			
+                </div>
+                <!-- header close -->
+                
+    			<!-- nav open -->
+    			<nav class="main-nav">
+                    <div class="header-inner clear-fix">
+                        <div class="mobile">
+                            <i class="fa fa-bars"></i>
+                        </div>
+                        <div id="main-menu" class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-42"><a href="https://www.trendtic.cl/">Inicio</a></li>
+<li id="menu-item-23628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23628"><a href="https://www.trendtic.cl/trendtic-live/">trendTIC LIVE</a></li>
+<li id="menu-item-9254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9254"><a href="https://www.trendtic.cl/revistas/">Revistas</a></li>
+<li id="menu-item-7220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7220"><a href="https://www.trendtic.cl/category/transformaciondigital/">Transformación Digital</a><div class="bk-dropdown-menu"><ul class="bk-sub-menu">	<li id="menu-item-1062" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1062"><a href="https://www.trendtic.cl/category/cloud/">Cloud</a></li>
+	<li id="menu-item-3485" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3485"><a href="https://www.trendtic.cl/category/transformaciondigital/bigdata/">Big Data</a></li>
+	<li id="menu-item-7081" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7081"><a href="https://www.trendtic.cl/category/seguridad/">Seguridad</a></li>
+	<li id="menu-item-7232" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7232"><a href="https://www.trendtic.cl/category/transformaciondigital/ai/">Inteligencia Artificial</a></li>
+	<li id="menu-item-7233" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7233"><a href="https://www.trendtic.cl/category/transformaciondigital/iot/">IoT</a></li>
+	<li id="menu-item-1063" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1063"><a href="https://www.trendtic.cl/category/datacenter/">Datacenter</a></li>
+	<li id="menu-item-11530" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11530"><a href="https://www.trendtic.cl/category/telecomunicaciones/">Telecomunicaciones</a></li>
+	<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="https://www.trendtic.cl/category/movil/">Móvil</a></li>
+	<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="https://www.trendtic.cl/category/redessociales/">Redes Sociales</a></li>
+</ul></div></li>
+<li id="menu-item-7219" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7219"><a href="https://www.trendtic.cl/category/industriasymercados/">Industrias &#038; Mercados</a><div class="bk-dropdown-menu"><ul class="bk-sub-menu">	<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="https://www.trendtic.cl/category/industriasymercados/e-commerce/">E-Commerce</a></li>
+	<li id="menu-item-3483" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3483"><a href="https://www.trendtic.cl/category/industriasymercados/fintech/">FinTECH</a></li>
+	<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="https://www.trendtic.cl/category/innovacion/">Innovación</a></li>
+	<li id="menu-item-7256" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7256"><a href="https://www.trendtic.cl/category/innovacion/startup/">Start-Up</a></li>
+	<li id="menu-item-7255" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7255"><a href="https://www.trendtic.cl/category/innovacion/id/">I+D</a></li>
+	<li id="menu-item-7254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7254"><a href="https://www.trendtic.cl/category/innovacion/app/">App</a></li>
+	<li id="menu-item-7222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7222"><a href="https://www.trendtic.cl/category/industriasymercados/mercados/">Mercados</a></li>
+	<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13"><a href="https://www.trendtic.cl/category/gadget/">Gadget</a></li>
+</ul></div></li>
+<li id="menu-item-19449" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19449"><a href="https://www.trendtic.cl/category/e-salud/">e-SALUD</a></li>
+<li id="menu-item-346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-346"><a href="https://www.trendtic.cl/category/opinion/">Opinión</a></li>
+<li id="menu-item-1990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1990"><a href="https://www.trendtic.cl/suscripciones/">Suscripciones</a><div class="bk-dropdown-menu"><ul class="bk-sub-menu">	<li id="menu-item-7242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7242"><a href="https://www.trendtic.cl/revistas/contacto/">Contacto</a></li>
+</ul></div></li>
+<li id="menu-item-23875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23875"><a href="https://www.trendtic.cl/mujerestic/">Mujeres TIC</a></li>
+</ul></div><div id="main-mobile-menu" class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-42"><a href="https://www.trendtic.cl/">Inicio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23628"><a href="https://www.trendtic.cl/trendtic-live/">trendTIC LIVE</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9254"><a href="https://www.trendtic.cl/revistas/">Revistas</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7220"><a href="https://www.trendtic.cl/category/transformaciondigital/">Transformación Digital</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1062"><a href="https://www.trendtic.cl/category/cloud/">Cloud</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3485"><a href="https://www.trendtic.cl/category/transformaciondigital/bigdata/">Big Data</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7081"><a href="https://www.trendtic.cl/category/seguridad/">Seguridad</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7232"><a href="https://www.trendtic.cl/category/transformaciondigital/ai/">Inteligencia Artificial</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7233"><a href="https://www.trendtic.cl/category/transformaciondigital/iot/">IoT</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1063"><a href="https://www.trendtic.cl/category/datacenter/">Datacenter</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11530"><a href="https://www.trendtic.cl/category/telecomunicaciones/">Telecomunicaciones</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="https://www.trendtic.cl/category/movil/">Móvil</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="https://www.trendtic.cl/category/redessociales/">Redes Sociales</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7219"><a href="https://www.trendtic.cl/category/industriasymercados/">Industrias &#038; Mercados</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="https://www.trendtic.cl/category/industriasymercados/e-commerce/">E-Commerce</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3483"><a href="https://www.trendtic.cl/category/industriasymercados/fintech/">FinTECH</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="https://www.trendtic.cl/category/innovacion/">Innovación</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7256"><a href="https://www.trendtic.cl/category/innovacion/startup/">Start-Up</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7255"><a href="https://www.trendtic.cl/category/innovacion/id/">I+D</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7254"><a href="https://www.trendtic.cl/category/innovacion/app/">App</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7222"><a href="https://www.trendtic.cl/category/industriasymercados/mercados/">Mercados</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13"><a href="https://www.trendtic.cl/category/gadget/">Gadget</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19449"><a href="https://www.trendtic.cl/category/e-salud/">e-SALUD</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-346"><a href="https://www.trendtic.cl/category/opinion/">Opinión</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1990"><a href="https://www.trendtic.cl/suscripciones/">Suscripciones</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7242"><a href="https://www.trendtic.cl/revistas/contacto/">Contacto</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23875"><a href="https://www.trendtic.cl/mujerestic/">Mujeres TIC</a></li>
+</ul></div>                        
+                        
+                        
+                        <div id="main-search" class="search-ltr">
+    
+    				        <form method="get" id="search-form" action="https://www.trendtic.cl">
+
+	<input type="text" name="s" id="s" value="Search" onfocus='if (this.value == "Search") { this.value = ""; }' onblur='if (this.value == "") { this.value = "Search"; }' />
+
+	<div class="search-icon">
+        <i class="fa fa-search"></i>
+    </div>
+
+
+</form>    
+                        </div><!--main-search-->
+                        
+                    </div><!-- main-nav-inner -->
+                
+    			</nav>
+    			<!-- nav close -->
+
+            </div>
+            <!-- header-wrap close -->
+    		
+    		<!-- backtop open -->
+    		                <div id="back-top"><i class="fa fa-angle-up"></i></div>
+                		<!-- backtop close -->
+    		
+    		<!-- MAIN BODY OPEN -->
+    		<div class="main-body clear-fix sb-right">        
+    <div class="content has-sidebar" itemscope itemtype="http://schema.org/BlogPosting">
+                <div class="article-thumb">
+<img width="1139" height="926" src="https://www.trendtic.cl/wp-content/uploads/2014/08/Twitter_logo_blue.png" class="attachment-full size-full wp-post-image" alt="" srcset="https://www.trendtic.cl/wp-content/uploads/2014/08/Twitter_logo_blue.png 1139w, https://www.trendtic.cl/wp-content/uploads/2014/08/Twitter_logo_blue-300x243.png 300w, https://www.trendtic.cl/wp-content/uploads/2014/08/Twitter_logo_blue-1024x832.png 1024w, https://www.trendtic.cl/wp-content/uploads/2014/08/Twitter_logo_blue-600x487.png 600w" sizes="(max-width: 1139px) 100vw, 1139px" />        </div> <!-- article-thumb -->
+            <article class="post-article post-25721 post type-post status-publish format-standard has-post-thumbnail hentry category-noticiasymas" >
+                    <div class="cat-list">
+                <a class="cat-btn" href="https://www.trendtic.cl/category/noticiasymas/" title="View all posts in Noticias y más">Noticias y más</a>            </div>
+			        	<h1 class="post-title post-title-single" itemprop="headline">Twitter reacciona a la caída de Google con más de 2 millones de menciones</h1>
+                
+        <div class="post-meta post-meta-single">
+        	
+            <div class="post-meta post-meta-primary">                   
+                    
+                <div class="author" itemprop="author" ><a rel="author" href="https://www.trendtic.cl/author/t7000090/" title="Posts by TrendTIC">TrendTIC</a></div>                                                         
+                <time class="article-time" datetime="2020-12-15T06:48:59+00:00">
+                     | 15 diciembre, 2020 at 06:48                </time>					   
+			</div>
+            
+            <div class="post-meta post-meta-secondary">
+                <div class="views">
+					<i class="fa fa-eye"></i>									
+					39				</div>
+   								
+									<div class="comments">
+						<i class="fa fa-comment"></i>
+						<a href="https://www.trendtic.cl/2020/12/twitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones/#respond">0</a>					</div>		
+			                    
+            </div>
+        </div>
+                <section class="article-content" itemprop="articleBody">
+        
+<ul><li><strong><em>Luego que Google emitiera un comunicado oficial, confirmando las fallas que presentaban algunos de sus productos se empezaron a generar algunos memes en torno a los acontecimientos que han marcado el 2020.</em></strong></li></ul>
+
+
+
+<p><strong>Santiago, 15 de diciembre de 2020.- </strong>La Agencia de Marketing Digital, Rompecabeza, realizó un monitoreo de la conversación en Twitter evidenciada este 14 de diciembre en torno a la falla mundial que registraron Gmail,  Youtube, Meet y otros servicios de Google. El peak de la conversación debido al incidente se registró a las 9:00 horas con más de 717 mil menciones, horario que coincidió con el inicio de las actividades laborales en varios países de latinoamérica, acumulando un total de más de 2 millones (2.060.586) de menciones.   </p>
+
+
+
+<p>Sin embargo, desde las 8:00 horas se empezaron
+a generar los primeros tweets de usuarios informando que al intentar ingresar a
+su correo electrónico a través de Gmail la plataforma les mostraba un mensaje
+indicando “Se produjo un error”, posicionando a la palabra “Error” con cerca de
+15 mil menciones.</p>
+
+
+
+<p>Luego que Google emitiera un comunicado
+oficial, confirmando las fallas que presentaban algunos de sus productos se
+empezaron a generar algunos memes en torno a los acontecimientos que han
+marcado el 2020 y la dependencia actual que poseen los internautas en torno a
+los servicios de la empresa tanto en el contexto laboral (Google Drive -Meet)
+como en el de entretenimiento (Youtube). Predominando en la conversación
+usuarios del género masculino con un 53% y el rango de edad entre 25 y 44 años
+con el 53%.</p>
+
+
+
+<p>La conversación también fue vinculada al
+Eclipse Solar debatiendo sobre si este acontecimiento tendría relación con la
+caída de Google y un “reseteo global”.</p>
+
+
+
+<p>Destacaron las menciones hacia el buscador
+Google e interacciones en torno a @gmail y @googlechrome de usuarios que
+consultaron a las cuentas oficiales para indagar sobre el inconveniente que
+presentaban las plataformas.&nbsp; En este
+contexto cerca del 70% de las menciones evidenciadas durante la caída masiva de
+los servicios mencionaron a la empresa.</p>
+
+
+
+<p>En cuanto a los servicios, Gmail y YouTube
+fueron los más nombrados, algunos informando sobre el incidente mientras que
+otros consultaban qué estaba pasando.</p>
+
+
+
+<p>Los memes también tuvieron especial
+protagonismo en la conversación, variando entre imágenes de oficinas
+incendiadas, ofertas de “palomas mensajeras” e incluso fue vinculado con el
+Covid-19 indicando que podría tratarse de un efecto secundario de las vacunas.</p>
+
+
+
+<p>En el top 10 de los países que más
+interactuaron en Twitter sobre el tema destacan EE.UU con 407,9k y Japón con
+356,7k. En cuanto a los países de América del Sur, Argentina registró más de 12
+mil menciones y Chile 8 mil. Esto evidencia el impacto que tienen los servicios
+de la multinacional estadounidense Alphabet Inc a escala mundial.
+
+Al respecto, Ariel Jeria, gerente general de
+Rompecabeza, considera que este hito dejó en evidencia como una plataforma de
+uso masivo como lo es Google puede causar un efecto de ajedrez en los
+internautas; sus servicios colapsaron y los usuarios se ven perjudicados por la
+alta dependencia que hoy existe de la empresa tecnológica, generando una
+percepción dividida de molestia a quienes fueron afectados en sus tareas
+diarias pero por el otro lado hubo muchos que se lo tomaron con humor generando
+parodias del incidente asociados a este complejo año 2020.
+
+
+
+</p>
+        </section>
+        
+                
+        
+    </article>
+    
+        
+        
+            <div class="bk-share-box clear-fix">
+            <h3 class="block-title">Share this post</h3>
+            <ul>
+                                    <li><a class="bk_facebook_share" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.trendtic.cl%2F2020%2F12%2Ftwitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones%2F" target="_blank"><i class="fa fa-facebook " title="Facebook"></i></a></li>
+                                                    <li><a class="bk_twitter_share" href="http://twitter.com/share?url=https%3A%2F%2Fwww.trendtic.cl%2F2020%2F12%2Ftwitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones%2F&amp;text=Typography+" target="_blank"><i class="fa fa-twitter " title="Twitter"></i></a></li>
+                                                    <li><a class="bk_google_share" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.trendtic.cl%2F2020%2F12%2Ftwitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones%2F" target="_blank"><i class="fa fa-google-plus " title="Google Plus"></i></a></li>
+                                                    <li><a class="bk_pinterest_share" href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><i class="fa fa-pinterest " title="Pinterest"></i></a></li>
+                                                    <li><a class="bk_tumblr_share" href="http://www.tumblr.com/share/link?url=https%3A%2F%2Fwww.trendtic.cl%2F2020%2F12%2Ftwitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones%2F&amp;name=Typography" target="_blank"><i class="fa fa-tumblr " title="Tumblr"></i></a></li>
+                                                    <li><a class="bk_linkedin_share" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.trendtic.cl%2F2020%2F12%2Ftwitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones%2F" target="_blank"><i class="fa fa-linkedin " title="Linkedin"></i></a></li>
+                                        
+            </ul>
+        </div>
+     
+
+
+<div id="bk-related-posts" class="clear-fix">
+                        <h3 class="block-title">Related Posts</h3><ul> 
+                    <li class="main-post">
+							
+								<div class="thumb-wrap">
+                                      										
+                    						<div class="post-cat post-cat-bg">
+                    							<a  href="https://www.trendtic.cl/category/noticiasymas/">Noticias y más</a>                    						</div>					
+                    			     									<div class="thumb">
+										<a href="https://www.trendtic.cl/2015/04/ibm-dice-invertira-us3-000-millones-en-unidad-de-internet-de-las-cosas/">
+                                            <img width="330" height="220" src="https://www.trendtic.cl/wp-content/uploads/2015/03/5488858734_91aa6df80f_b-330x220.jpg" class="attachment-bk330_220 size-bk330_220 wp-post-image" alt="" srcset="https://www.trendtic.cl/wp-content/uploads/2015/03/5488858734_91aa6df80f_b-330x220.jpg 330w, https://www.trendtic.cl/wp-content/uploads/2015/03/5488858734_91aa6df80f_b-300x200.jpg 300w, https://www.trendtic.cl/wp-content/uploads/2015/03/5488858734_91aa6df80f_b-600x400.jpg 600w, https://www.trendtic.cl/wp-content/uploads/2015/03/5488858734_91aa6df80f_b.jpg 1024w" sizes="(max-width: 330px) 100vw, 330px" />                                        </a>
+									</div>
+									
+									<div class="overlay">									
+										<a class="post-link" href="https://www.trendtic.cl/2015/04/ibm-dice-invertira-us3-000-millones-en-unidad-de-internet-de-las-cosas/"><i class="icon-link"></i></a>	
+									</div>
+								
+								
+								</div>
+						
+							
+							<div class="post-info">
+								<h3 class="post-title post-title-main-post">
+									<a href="https://www.trendtic.cl/2015/04/ibm-dice-invertira-us3-000-millones-en-unidad-de-internet-de-las-cosas/">
+										IBM invertiría US$3.000 millones en unidad de &#8220;Internet de las ...									</a>
+								</h3>
+								<div class="post-meta post-meta-primary clear-fix">                   
+                
+                                    <span class="post-author">
+                                            <a href="https://www.trendtic.cl/author/t7000090/" title="Entradas de TrendTIC" rel="author">TrendTIC</a>                           
+                                    </span>	
+                             					   
+                    			</div>
+                                
+                                <div class="post-meta post-meta-secondary clear-fix">
+                                    <span class="views">
+                    					<i class="fa fa-eye"></i>									
+                    					1030                    				</span>
+                       								
+                    				                    					<span class="comments">
+                    						<i class="fa fa-comment"></i>
+                    						<a href="https://www.trendtic.cl/2015/04/ibm-dice-invertira-us3-000-millones-en-unidad-de-internet-de-las-cosas/#respond">0</a>                    					</span>		
+                				                                        
+                                </div>
+                                
+							</div>							
+						</li>
+ 
+                    <li class="main-post">
+							
+								<div class="thumb-wrap">
+                                      										
+                    						<div class="post-cat post-cat-bg">
+                    							<a  href="https://www.trendtic.cl/category/industriasymercados/e-commerce/">E-Commerce</a>                    						</div>					
+                    			     									<div class="thumb">
+										<a href="https://www.trendtic.cl/2015/10/el-mercado-de-viajes-online-crece-en-america-latina/">
+                                            <img width="330" height="220" src="https://www.trendtic.cl/wp-content/uploads/2015/10/viaje-online-330x220.jpg" class="attachment-bk330_220 size-bk330_220 wp-post-image" alt="" />                                        </a>
+									</div>
+									
+									<div class="overlay">									
+										<a class="post-link" href="https://www.trendtic.cl/2015/10/el-mercado-de-viajes-online-crece-en-america-latina/"><i class="icon-link"></i></a>	
+									</div>
+								
+								
+								</div>
+						
+							
+							<div class="post-info">
+								<h3 class="post-title post-title-main-post">
+									<a href="https://www.trendtic.cl/2015/10/el-mercado-de-viajes-online-crece-en-america-latina/">
+										El mercado de viajes online crece en América Latina									</a>
+								</h3>
+								<div class="post-meta post-meta-primary clear-fix">                   
+                
+                                    <span class="post-author">
+                                            <a href="https://www.trendtic.cl/author/t7000090/" title="Entradas de TrendTIC" rel="author">TrendTIC</a>                           
+                                    </span>	
+                             					   
+                    			</div>
+                                
+                                <div class="post-meta post-meta-secondary clear-fix">
+                                    <span class="views">
+                    					<i class="fa fa-eye"></i>									
+                    					685                    				</span>
+                       								
+                    				                    					<span class="comments">
+                    						<i class="fa fa-comment"></i>
+                    						<a href="https://www.trendtic.cl/2015/10/el-mercado-de-viajes-online-crece-en-america-latina/#respond">0</a>                    					</span>		
+                				                                        
+                                </div>
+                                
+							</div>							
+						</li>
+ 
+                    <li class="main-post">
+							
+								<div class="thumb-wrap">
+                                      										
+                    						<div class="post-cat post-cat-bg">
+                    							<a  href="https://www.trendtic.cl/category/gamers/">Gamers</a>                    						</div>					
+                    			     									<div class="thumb">
+										<a href="https://www.trendtic.cl/2017/06/irrupcion-gamer/">
+                                            <img width="330" height="220" src="https://www.trendtic.cl/wp-content/uploads/2017/06/gamer-330x220.jpg" class="attachment-bk330_220 size-bk330_220 wp-post-image" alt="" srcset="https://www.trendtic.cl/wp-content/uploads/2017/06/gamer-330x220.jpg 330w, https://www.trendtic.cl/wp-content/uploads/2017/06/gamer-300x200.jpg 300w, https://www.trendtic.cl/wp-content/uploads/2017/06/gamer.jpg 510w" sizes="(max-width: 330px) 100vw, 330px" />                                        </a>
+									</div>
+									
+									<div class="overlay">									
+										<a class="post-link" href="https://www.trendtic.cl/2017/06/irrupcion-gamer/"><i class="icon-link"></i></a>	
+									</div>
+								
+								
+								</div>
+						
+							
+							<div class="post-info">
+								<h3 class="post-title post-title-main-post">
+									<a href="https://www.trendtic.cl/2017/06/irrupcion-gamer/">
+										Irrupción gamer									</a>
+								</h3>
+								<div class="post-meta post-meta-primary clear-fix">                   
+                
+                                    <span class="post-author">
+                                            <a href="https://www.trendtic.cl/author/t7000090/" title="Entradas de TrendTIC" rel="author">TrendTIC</a>                           
+                                    </span>	
+                             					   
+                    			</div>
+                                
+                                <div class="post-meta post-meta-secondary clear-fix">
+                                    <span class="views">
+                    					<i class="fa fa-eye"></i>									
+                    					661                    				</span>
+                       								
+                    				                    					<span class="comments">
+                    						<i class="fa fa-comment"></i>
+                    						<a href="https://www.trendtic.cl/2017/06/irrupcion-gamer/#respond">0</a>                    					</span>		
+                				                                        
+                                </div>
+                                
+							</div>							
+						</li>
+</ul></div>
+
+    <div id="comments" class="comments-area clear-fix">
+
+        <div class="comments-area-title">
+            <h3>
+                No comments            </h3>
+            <a class="add-comment-btn" href="#reply-title">Add yours</a>        </div>
+
+        
+                
+    </div><!-- #comments .comments-area -->
+    	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2020/12/twitter-reacciona-a-la-caida-de-google-con-mas-de-2-millones-de-menciones/#respond" style="display:none;">Cancelar respuesta</a></small></h3>			<form action="https://www.trendtic.cl/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-form-comment"><label for="comment" >Comment</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" placeholder="Message"></textarea></p><p class="comment-form-author"><label for="author" >Name</label><input id="author" name="author" type="text" placeholder="Name..." size="30"  aria-required='true' /></p><!--
+--><p class="comment-form-email"><label for="email" >Email</label><input id="email" name="email" size="30" type="text" placeholder="Email..."  aria-required='true' /></p><!--
+--><p class="comment-form-url"><label for="url" >Url</label><input id="url" name="url" size="30" placeholder="Website..." type="text"></p>
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Send" /> <input type='hidden' name='comment_post_ID' value='25721' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>			</form>
+			</div><!-- #respond -->
+	 
+
+    </div> <!-- main-content -->
+    
+    <!--<home sidebar widget>-->
+    		<div class="sidebar right no-border">
+            <aside class="widget trend-widget"><a data-bid="1" href="https://www.trendtic.cl/linkout/23786" target="_blank"><img width="300" height="300" src='https://www.trendtic.cl/wp-content/uploads/2021/02/Eslabón-más-débil-TECNOVAN-web.png' alt=''  /></a></aside><aside class="widget trend-widget"><a data-bid="1" href="https://www.trendtic.cl/linkout/23785" target="_blank"><img width="300" height="100" src='https://www.trendtic.cl/wp-content/uploads/2020/04/Netskope_proteccion_trabajadores_remotos_banner_300x100.gif' alt=''  /></a></aside><aside class="widget trend-widget"><a data-bid="1" href="https://www.trendtic.cl/linkout/27448" target="_blank"><img width="301" height="200" src='https://www.trendtic.cl/wp-content/uploads/2021/06/TRENDTIC_02-300x200.png' alt=''  /></a></aside><aside class="widget trend-widget"><a data-bid="1" href="https://www.trendtic.cl/linkout/26965" target="_blank"><img width="300" height="200" src='https://www.trendtic.cl/wp-content/uploads/2021/04/banner-2-NETDATA.png' alt=''  /></a></aside><aside id="popular-widget-3" class="widget popular-widget">
+<div class="bk-header"><div class="bk-title"><h3>Lo más leído</h3></div></div>
+<div class="pop-layout-v"><ul id="pop-widget-tabs-3" class="pop-widget-tabs pop-widget-tabs-1" ><li><a href="#viewed" rel="nofollow"></a></li></ul><div class="pop-inside-3 pop-inside"><ul id="pop-widget-viewed-3"><li><a href="https://www.trendtic.cl/2021/06/la-consolidacion-del-mercado-de-profesionales-it-durante-la-pandemia/" title="La consolidación del mercado de profesionales IT durante la pandemia" rel="bookmark"><img width="150" height="150" src="https://www.trendtic.cl/wp-content/uploads/2020/11/personas-y-computador-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://www.trendtic.cl/wp-content/uploads/2020/11/personas-y-computador-150x150.jpg 150w, https://www.trendtic.cl/wp-content/uploads/2020/11/personas-y-computador-75x75.jpg 75w, https://www.trendtic.cl/wp-content/uploads/2020/11/personas-y-computador-100x100.jpg 100w, https://www.trendtic.cl/wp-content/uploads/2020/11/personas-y-computador-262x262.jpg 262w" sizes="(max-width: 150px) 100vw, 150px" /><span class="pop-overlay"><span class="pop-title">La consolidación del mercado de profesionales IT durante la pandemia</span> </span></a><br class="pop-cl" /></li><li><a href="https://www.trendtic.cl/2021/06/oracle-if-y-caja-los-andes-lanzan-desafio-emprendedor-unboxing-innovation/" title="Oracle, iF y Caja Los Andes lanzan desafío emprendedor “Unboxing Innovation”" rel="bookmark"><img width="1" height="1" src="https://www.trendtic.cl/wp-content/uploads/2021/06/WhatsApp-Image-2021-06-18-at-16.07.06.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /><span class="pop-overlay"><span class="pop-title">Oracle, iF y Caja Los Andes lanzan desafío emprendedor “Unboxing Innovation”</span> </span></a><br class="pop-cl" /></li><li><a href="https://www.trendtic.cl/2021/06/mercado-pago-firma-acuerdo-con-asech-y-se-convierte-en-el-primer-aliado-en-medios-de-pago-de-los-emprendedores/" title="Mercado Pago firma acuerdo con Asech y se convierte en el primer aliado en medios de pago de los emprendedores" rel="bookmark"><img width="150" height="150" src="https://www.trendtic.cl/wp-content/uploads/2017/03/acuerdo-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://www.trendtic.cl/wp-content/uploads/2017/03/acuerdo-150x150.jpg 150w, https://www.trendtic.cl/wp-content/uploads/2017/03/acuerdo-75x75.jpg 75w, https://www.trendtic.cl/wp-content/uploads/2017/03/acuerdo-100x100.jpg 100w, https://www.trendtic.cl/wp-content/uploads/2017/03/acuerdo-262x262.jpg 262w" sizes="(max-width: 150px) 100vw, 150px" /><span class="pop-overlay"><span class="pop-title">Mercado Pago firma acuerdo con Asech y se convierte en el primer aliado en medios de pago de los emprendedores</span> </span></a><br class="pop-cl" /></li><li><a href="https://www.trendtic.cl/2021/06/atencion-gamers-lanzan-concurso-de-fotografias-de-videojuegos/" title="Atención gamers: lanzan concurso de fotografías de videojuegos" rel="bookmark"><img width="1" height="1" src="https://www.trendtic.cl/wp-content/uploads/2021/06/DaleSnap.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /><span class="pop-overlay"><span class="pop-title">Atención gamers: lanzan concurso de fotografías de videojuegos</span> </span></a><br class="pop-cl" /></li><li><a href="https://www.trendtic.cl/2021/06/llegan-a-chile-nuevos-smartphones-de-tcl-con-inteligencia-artificial/" title="Llegan a Chile nuevos smartphones de TCL con inteligencia artificial" rel="bookmark"><img width="1" height="1" src="https://www.trendtic.cl/wp-content/uploads/2021/06/TCL-Smartphones20.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /><span class="pop-overlay"><span class="pop-title">Llegan a Chile nuevos smartphones de TCL con inteligencia artificial</span> </span></a><br class="pop-cl" /></li></ul></div><!--.pop-inside--></div><!--.pop-layout-v--></aside>
+<aside id="bk_ads_banner-17" class="widget widget-ads-banner">			<a class="ads-banner-link" target="_blank" href="https://www.youtube.com/watch?v=OARgezAplsQ">
+				<img class="ads-banner" src="https://www.trendtic.cl/wp-content/uploads/2019/07/gif-trendtic-final.gif" alt="">
+			</a>
+		</aside><aside id="bk_ads_banner-10" class="widget widget-ads-banner">			<a class="ads-banner-link" target="_blank" href="http://www.trendtic.cl/suscripciones/">
+				<img class="ads-banner" src="https://www.trendtic.cl/wp-content/uploads/2015/04/botons-suscribir-V21.jpg" alt="">
+			</a>
+		</aside><aside id="sfsi-widget-4" class="widget sfsi"><div class="sfsi_widget" data-position="widget">
+    <div id='sfsi_wDiv'></div>
+    <div class="norm_row sfsi_wDiv"  style="width:290px;text-align:right;position:absolute;"><div style='width:40px; height:40px;margin-left:18px;margin-bottom:5px; ' class='sfsi_wicons shuffeldiv ' ><div class='inerCnt'><a class=' sficn' data-effect='' target='_blank'  href='https://www.linkedin.com/company/3834619' id='sfsiid_linkedin' style='opacity:1'  ><img data-pin-nopin='true' alt='LinkedIn' title='LinkedIn' src='https://www.trendtic.cl/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_linkedin.png' width='40' height='40' style='' class='sfcm sfsi_wicon ' data-effect=''   /></a></div></div><div style='width:40px; height:40px;margin-left:18px;margin-bottom:5px; ' class='sfsi_wicons shuffeldiv ' ><div class='inerCnt'><a class=' sficn' data-effect='' target='_blank'  href='https://twitter.com/trendTIC' id='sfsiid_twitter' style='opacity:1'  ><img data-pin-nopin='true' alt='Twitter' title='Twitter' src='https://www.trendtic.cl/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_twitter.png' width='40' height='40' style='' class='sfcm sfsi_wicon ' data-effect=''   /></a></div></div><div style='width:40px; height:40px;margin-left:18px;margin-bottom:5px; ' class='sfsi_wicons shuffeldiv ' ><div class='inerCnt'><a class=' sficn' data-effect='' target='_blank'  href='https://www.youtube.com/channel/UCrmRNzRsJvsZik-1EN2yvAw' id='sfsiid_youtube' style='opacity:1'  ><img data-pin-nopin='true' alt='YouTube' title='YouTube' src='https://www.trendtic.cl/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_youtube.png' width='40' height='40' style='' class='sfcm sfsi_wicon ' data-effect=''   /></a></div></div><div style='width:40px; height:40px;margin-left:18px;margin-bottom:5px; ' class='sfsi_wicons shuffeldiv ' ><div class='inerCnt'><a class=' sficn' data-effect='' target='_blank'  href='https://www.facebook.com/trendtic' id='sfsiid_facebook' style='opacity:1'  ><img data-pin-nopin='true' alt='Facebook' title='Facebook' src='https://www.trendtic.cl/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_facebook.png' width='40' height='40' style='' class='sfcm sfsi_wicon ' data-effect=''   /></a></div></div><div style='width:40px; height:40px;margin-left:18px;margin-bottom:5px; ' class='sfsi_wicons shuffeldiv ' ><div class='inerCnt'><a class=' sficn' data-effect='' target='_blank'  href='https://www.instagram.com/revistatrendtic/' id='sfsiid_instagram' style='opacity:1'  ><img data-pin-nopin='true' alt='Instagram' title='Instagram' src='https://www.trendtic.cl/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_instagram.png' width='40' height='40' style='' class='sfcm sfsi_wicon ' data-effect=''   /></a></div></div></div ><div id="sfsi_holder" class="sfsi_holders" style="position: relative; float: left;width:100%;z-index:-1;"></div ><script>window.addEventListener("sfsi_functions_loaded", function() 
+	{
+		if (typeof sfsi_widget_set == "function") {
+			sfsi_widget_set();
+		}
+	}); </script>    <div style="clear: both;"></div>
+</div>
+</aside><aside id="text-9" class="widget widget_text"><div class="bk-header"><div class="bk-title"><h3>Entrevista</h3></div></div>			<div class="textwidget"><style type="text/css">#post-grid-15048 .element_0{display: block;font-size: 21px;line-height: normal;padding: 5px 10px;text-align: center;}#post-grid-15048 .element_0:hover{}#post-grid-15048 .item{
+			background:#20a1f7;
+	
+			}</style><style type="text/css">/*Write your CSS code here*/</style><style type="text/css">#post-grid-15048 {
+			padding:10px;
+			background: #fff url() repeat scroll 0 0;
+		}#post-grid-15048 .item .layer-media{overflow: hidden;
+		}@media only screen and (min-width: 1024px ) {#post-grid-15048 .item .layer-media{height:auto;}}
+		
+		@media only screen and ( min-width: 768px ) and ( max-width: 1023px ) {#post-grid-15048 .item .layer-media{height:auto}}
+		
+		@media only screen and ( min-width: 320px ) and ( max-width: 767px ) {#post-grid-15048 .item .layer-media{height:auto}}#post-grid-15048 .item{
+		margin:5px;}@media only screen and (min-width: 1024px ) {#post-grid-15048 .item{height:auto;}}
+	
+	@media only screen and ( min-width: 768px ) and ( max-width: 1023px ) {#post-grid-15048 .item{height:auto}}
+	
+	@media only screen and ( min-width: 320px ) and ( max-width: 767px ) {#post-grid-15048 .item{height:auto}}
+	@media only screen and (min-width: 1024px ) {
+	#post-grid-15048 .item{width:300px}
+	
+	}
+	
+	@media only screen and ( min-width: 768px ) and ( max-width: 1023px ) {
+	#post-grid-15048 .item{width:300px}
+	}
+	
+	@media only screen and ( min-width: 320px ) and ( max-width: 767px ) {
+	#post-grid-15048 .item{width:100%}
+	}</style><div id="post-grid-15048" class="post-grid grid"><div class="grid-nav-top"></div><div class="grid-items " id=""><div  class="item mix skin even flat entrevista "><div class="layer-media"><a href="https://www.trendtic.cl/2021/05/smart-banking-el-aliado-ideal-para-acelerar-los-procesos-digitales-financieros/"><img alt="" src="https://www.trendtic.cl/wp-content/uploads/2021/05/smart_banking-axity.jpg" /></a></div><div class="layer-content"><div class="element element_0 title"  >Smart Banking: el aliado ideal para acelerar los procesos digitales financieros</div></div></div><div  class="item mix skin odd flat entrevista "><div class="layer-media"><a href="https://www.trendtic.cl/2020/10/hoy-se-hace-fundamental-brindar-una-experiencia-diferenciada-de-cliente/"><img alt="" src="https://www.trendtic.cl/wp-content/uploads/2020/10/desarrollo-de-software-trendtic-axity_Mesa-de-trabajo-1-300x247.jpg" /></a></div><div class="layer-content"><div class="element element_0 title"  >“Hoy se hace fundamental brindar una experiencia diferenciada de cliente”</div></div></div></div><div class="grid-nav-bottom"><div class="pagination dark"></div ></div><script>
+		jQuery(document).ready(function($)
+		{
+			$("#post-grid-15048 .layer-media .gallery").owlCarousel({
+				
+				items : 1,
+
+				navText : ["",""],
+				autoplay: true,
+				loop: true,
+				autoHeight : true,	
+				nav : false,	
+				dots : false,					
+											
+								
+				});
+		
+		});</script></div>
+</div>
+		</aside>  	
+		</div>
+    <!--</home sidebar widget>-->        
+
+            </div>
+    		<!-- MAIN BODY CLOSE -->
+    		
+    		<!-- FOOTER OPEN -->
+                		<div class="footer">
+                
+                                <div class="footer-lower">
+                    <div class="footer-inner">
+                        <div class="bk-copyright">Para Consultas y Publicidad:
+<a href="mailto:contacto@trendtic.com?Subject=Contacto" target="_top">contacto@trendtic.com</a>.  © Copyright <a href="//www.trendtic.cl">TrendTIC 2019</a>. 
+
+
+</div>
+                    </div>
+                </div>
+    		
+    		</div>
+    		<!-- FOOTER close -->
+            
+        </div>
+        <!-- page-wrap close -->
+        
+      </div>
+      <!-- site-container close-->
+        
+    <script type='text/javascript'>                            </script>    <!-- ngg_resource_manager_marker --><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.trendtic.cl\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-social-media-icons/js/shuffle/modernizr.custom.min.js?ver=5.0.13'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-social-media-icons/js/shuffle/jquery.shuffle.min.js?ver=5.0.13'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-social-media-icons/js/shuffle/random-shuffle-min.js?ver=5.0.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sfsi_icon_ajax_object = {"ajax_url":"https:\/\/www.trendtic.cl\/wp-admin\/admin-ajax.php"};
+var sfsi_icon_ajax_object = {"ajax_url":"https:\/\/www.trendtic.cl\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.trendtic.cl\/wp-content\/plugins\/ultimate-social-media-icons\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-social-media-icons/js/custom.js?ver=5.0.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_layer_settings = {"layer_class":"trend-layer"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/advanced-ads-layer/public/assets/js/layer.js?ver=1.6.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_sticky_settings = {"check_position_fixed":"","sticky_class":"trend-sticky"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/advanced-ads-sticky-ads/public/assets/js/sticky.js?ver=1.7.10'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/themes/storm/js/jquery.flexslider.js?ver=5.0.13'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/themes/storm/js/masonry.pkgd.min.js?ver=5.0.13'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/themes/storm/js/imagesloaded.pkgd.min.js?ver=5.0.13'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/themes/storm/js/bk_post_review.js?ver=5.0.13'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/comment-reply.min.js?ver=5.0.13'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/themes/storm/js/jquery.fitvids.js?ver=5.0.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fixed_nav = "2";
+var bk_flex_el = {"carousel":"","sidebar_slider":"","main_slider":"","gallery":"","grid":"","category_slider":"","twitter_slider":""};
+var mconfig = [];
+var megamenu_carousel_el = null;
+var ticker = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/themes/storm/js/customjs.js?ver=5.0.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var popwid = {"postid":"25721","ajaxurl":"https:\/\/www.trendtic.cl\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/popular-widget/_js/pop-widget.js?ver=1.7.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advadsTracking = {"ajaxurl":"https:\/\/www.trendtic.cl\/wp-admin\/admin-ajax.php","ajaxActionName":"aatrack-records","method":null,"blogId":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/advanced-ads-tracking/public/assets/js/script.js?ver=1.20'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/wp-util.min.js?ver=5.0.13'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-fileupload.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/pickadate/legacy.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/pickadate/translations/es_ES.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.0.0'></script>
+<script type='text/javascript'>
+( 'fetch' in window ) || document.write( '<script src="https://www.trendtic.cl/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.trendtic.cl/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.26.0-0"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.trendtic.cl/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.trendtic.cl/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/dist/i18n.min.js?ver=3.1.0'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/simplebar.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/dist/hooks.min.js?ver=2.0.4'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js?ver=2.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var um_scripts = {"nonce":"f2fcaaae68"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-content/plugins/ultimate-member/assets/js/um-account.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://www.trendtic.cl/wp-includes/js/wp-embed.min.js?ver=5.0.13'></script>
+
+<div id="um_upload_single" style="display:none"></div>
+<div id="um_view_photo" style="display:none">
+
+	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close"><i class="um-faicon-times"></i></a>
+
+	<div class="um-modal-body photo">
+		<div class="um-modal-photo"></div>
+	</div>
+
+</div>			<!--facebook like and share js -->
+			<div id="fb-root"></div>
+			<script>
+				(function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id)) return;
+					js = d.createElement(s);
+					js.id = id;
+					js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+					fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));
+			</script>
+					<script type="text/javascript">
+				window.___gcfg = {
+					lang: 'en-US'
+				};
+				(function() {
+					var po = document.createElement('script');
+					po.type = 'text/javascript';
+					po.async = true;
+					po.src = 'https://apis.google.com/js/plusone.js';
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(po, s);
+				})();
+			</script>
+
+			<script type="text/javascript">
+				(function() {
+					var po = document.createElement('script');
+					po.type = 'text/javascript';
+					po.async = true;
+					po.src = 'https://apis.google.com/js/platform.js';
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(po, s);
+				})();
+			</script>
+					<script src="//platform.linkedin.com/in.js" type="text/javascript">
+				lang: en_US
+			</script>
+					<!-- twitter JS End -->
+			<script>
+				! function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (!d.getElementById(id)) {
+						js = d.createElement(s);
+						js.id = id;
+						js.src = "https://platform.twitter.com/widgets.js";
+						fjs.parentNode.insertBefore(js, fjs);
+					}
+				}(document, "script", "twitter-wjs");
+			</script>
+		<script>
+window.addEventListener('sfsi_functions_loaded', function() {
+    if (typeof sfsi_responsive_toggle == 'function') {
+        sfsi_responsive_toggle(0);
+        console.log('sfsi_responsive_toggle');
+
+    }
+})
+</script>
+
+<script>
+    if (typeof sfsi_plugin_version == 'function') {
+        sfsi_plugin_version(get_option("sfsi_pluginVersion"));
+    }else{
+        'kladflkafdkjgdklfg';
+    }
+
+    function sfsi_processfurther(ref) {
+
+        var feed_id = '';
+        var feedtype = 8;
+
+        var email = jQuery(ref).find('input[name="data[Widget][email]"]').val();
+
+        var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+
+        if ((email != "Enter your email") && (filter.test(email))) {
+            if (feed_id != "") {
+
+                if (feedtype == "8") {
+
+                    var url = "https://www.specificfeeds.com/widgets/subscribeWidget/" + feed_id + "/" + feedtype;
+
+                    window.open('', "popupwindow", "scrollbars=yes,width=1080,height=760");
+
+                    ref.action = url;
+
+                    ref.target = "popupwindow";
+
+                    return true;
+
+                } else {
+
+                    return false
+
+                }
+            }
+        } else {
+
+            alert("Please enter email address");
+
+            jQuery(ref).find('input[name="data[Widget][email]"]').focus();
+
+            return false;
+
+        }
+
+    }
+</script>
+
+<style type="text/css" aria-selected="true">
+    .sfsi_subscribe_Popinner {
+
+        width: 100% !important;
+
+        height: auto !important;
+
+        padding: 18px 0px !important;
+
+        background-color: #ffffff !important;
+
+    }
+
+    .sfsi_subscribe_Popinner form {
+
+        margin: 0 20px !important;
+
+    }
+
+    .sfsi_subscribe_Popinner h5 {
+
+        font-family: Helvetica,Arial,sans-serif !important;
+
+        font-weight: bold !important;
+
+        color: #000000 !important;
+
+        font-size: 16px !important;
+
+        text-align: center !important;
+
+        margin: 0 0 10px !important;
+
+        padding: 0 !important;
+
+    }
+
+    .sfsi_subscription_form_field {
+
+        margin: 5px 0 !important;
+
+        width: 100% !important;
+
+        display: inline-flex;
+
+        display: -webkit-inline-flex;
+
+    }
+
+    .sfsi_subscription_form_field input {
+
+        width: 100% !important;
+
+        padding: 10px 0px !important;
+
+    }
+
+    .sfsi_subscribe_Popinner input[type=email] {
+
+        font-family: Helvetica,Arial,sans-serif !important;
+
+        font-style: normal !important;
+
+        color: #000000 !important;
+
+        font-size: 14px !important;
+
+        text-align: center !important;
+
+    }
+
+    .sfsi_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+
+        font-family: Helvetica,Arial,sans-serif !important;
+
+        font-style: normal !important;
+
+        color: #000000 !important;
+
+        font-size: 14px !important;
+
+        text-align: center !important;
+
+    }
+
+    .sfsi_subscribe_Popinner input[type=email]:-moz-placeholder {
+        /* Firefox 18- */
+
+        font-family: Helvetica,Arial,sans-serif !important;
+
+        font-style: normal !important;
+
+        color: #000000 !important;
+
+        font-size: 14px !important;
+
+        text-align: center !important;
+
+    }
+
+    .sfsi_subscribe_Popinner input[type=email]::-moz-placeholder {
+        /* Firefox 19+ */
+
+        font-family: Helvetica,Arial,sans-serif !important;
+
+        font-style: normal !important;
+
+        color: #000000 !important;
+
+        font-size: 14px !important;
+
+        text-align: center !important;
+
+    }
+
+    .sfsi_subscribe_Popinner input[type=email]:-ms-input-placeholder {
+
+        font-family: Helvetica,Arial,sans-serif !important;
+
+        font-style: normal !important;
+
+        color: #000000 !important;
+
+        font-size: 14px !important;
+
+        text-align: center !important;
+
+    }
+
+    .sfsi_subscribe_Popinner input[type=submit] {
+
+        font-family: Helvetica,Arial,sans-serif !important;
+
+        font-weight: bold !important;
+
+        color: #000000 !important;
+
+        font-size: 16px !important;
+
+        text-align: center !important;
+
+        background-color: #dedede !important;
+
+    }
+</style>
+
+<script>window.advads_has_ads = [["23786","ad",null],["23785","ad",null],["27448","ad",null],["26965","ad",null]];
+
+( window.advanced_ads_ready || jQuery( document ).ready ).call( null, function() {if ( window.advanced_ads_pro ) {advanced_ads_pro.process_passive_cb();} else if ( window.console && window.console.log ) {console.log('Advanced Ads Pro: cache-busting can not be initialized');} });</script>		<script type="text/javascript">
+			jQuery( window ).on( 'load', function() {
+				jQuery("input[name='um_request']").val('');
+			});
+		</script>
+	<script type="text/javascript">var advads_tracking_ads = {};var advads_tracking_urls = [];var advads_gatracking_uids = [];var advads_tracking_methods = [];var advads_tracking_parallel = [];var advads_tracking_linkbases = [];var advads_gatracking_allads = [];var advads_gatracking_anonym = true;</script> 
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','o3xgy');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+<script type="text/javascript">
+_linkedin_partner_id = "2243713";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2243713&fmt=gif" />
+</noscript>
+
+
+</body>
+</html>
+<!-- Page generated by LiteSpeed Cache 2.9.9.2 on 2021-06-23 19:05:43 -->
