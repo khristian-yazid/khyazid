@@ -3,18 +3,22 @@
   <head>
     <link rel="shortcut icon" type="image/png" href="./assets/favicon.png" />
     <link rel="stylesheet" href="./styles/style.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;900&display=swap"
+      rel="stylesheet"
+    />
     <title>Khyazid</title>
   </head>
   <body>
     <header class="header">
       <img class="header__img" src="./assets/logoKhT.png" alt="" />
       <div class="header__container-info">
-        <a href="">About Me</a>
-        <a href="">Projets</a>
-        <a href="">Blog</a>
+        <a href="">Biografía</a>
+        <a href="">Cursos</a>
+        <a href="">proyectos</a>
+        <a href="">Contactame</a>
       </div>
     </header>
     <main class="main">
@@ -25,15 +29,6 @@
             <br />
             <span>Ali</span>
           </h1>
-          <div class="main__social">
-            <a href=""><img src="/assets/insta.png" alt="" /></a>
-            <a href="https://github.com/khristian-yazid"
-              ><img src="/assets/git.png" alt=""
-            /></a>
-            <a href="https://twitter.com/khr_yazid"
-              ><img src="/assets/twitter.png" alt=""
-            /></a>
-          </div>
         </div>
       </div>
       <div class="profile__picture">
@@ -41,18 +36,12 @@
       </div>
       <div class="main__container--info">
         <div class="main__info">
-          <h2 class="info__title">
-            About Me
-            <hr />
-          </h2>
           <p>
-            Hola Mi nombre es Khristian y disfruto creando cosas que viven en
-            Internet. Mi interés en el desarrollo web comenzó en 2014 cuando
-            decidi aprender sobre como estaban creadas las paginas web. esto me
-            llevo a aprender sobre html y css tiempo despues aprendi sobre
-            javascript y en 2020 aprendi sobre react
+            Hola Mi nombre es Khristian, Mi interés en el desarrollo web comenzó
+            en 2014 cuando decidi aprender sobre como estaban creadas las
+            paginas web. esto me llevo a aprender sobre html y css tiempo
+            despues aprendi sobre javascript y en 2020 aprendi sobre react
           </p>
-
           <p></p>
           <div class="info__title">
             <img class="skills__picture" src="/assets/react.png" alt="" />
@@ -64,16 +53,18 @@
       </div>
     </main>
     <section class="section">
-      <div class="diplome__container">
-        <div class="diplome__title">
+      <div class="wrapper2">
+        <div class="one2">
           <h2>Curso Profesional de JavaScript</h2>
-          <img
-            class="diplome"
-            src="/assets/diplomas/javascriptpro.jpg"
-            alt=""
-          />
         </div>
-        <div class="diplome__info">
+        <div class="three2">
+          <img
+          class="diplome"
+          src="/assets/diplomas/javascriptpro.jpg"
+          alt=""
+        />
+        </div>
+        <div class="two2">
           <ul>
             <h3>Conocimientos Adquiridos</h3>
             <li>Como Funciona JavaScript</li>
@@ -83,12 +74,11 @@
           </ul>
         </div>
       </div>
-      <div class="diplome__container">
-        <div class="diplome__title">
+      <div class="wrapper">
+        <div class="one">
           <h2>Curso de FrontEnd Developer</h2>
-          <img class="diplome" src="/assets/diplomas/frontend.jpg" alt="" />
         </div>
-        <div class="diplome__info">
+        <div class="two">
           <ul>
             <h3>Conocimientos Adquiridos</h3>
             <li>HTML</li>
@@ -97,13 +87,18 @@
             <li>Maquetación y diseño responsivo</li>
           </ul>
         </div>
+        <div class="three">
+          <img class="diplome" src="/assets/diplomas/frontend.jpg" alt="" />
+        </div>
       </div>
-      <div class="diplome__container">
-        <div class="diplome__title">
+      <div class="wrapper2">
+        <div class="one2">
           <h2>Curso de BackEnd con Node.js</h2>
+        </div>
+        <div class="three2">
           <img class="diplome" src="/assets/diplomas/node.jpg" alt="" />
         </div>
-        <div class="diplome__info">
+        <div class="two2">
           <ul>
             <h3>Conocimientos Adquiridos</h3>
             <li>Manejo y uso de Streams con Node.js</li>
@@ -113,12 +108,11 @@
           </ul>
         </div>
       </div>
-      <div class="diplome__container">
-        <div class="diplome__title">
+      <div class="wrapper">
+        <div class="one">
           <h2>Curso de webpack</h2>
-          <img class="diplome" src="/assets/diplomas/webpack.jpg" alt="" />
         </div>
-        <div class="diplome__info">
+        <div class="two">
           <ul>
             <h3>Conocimientos Adquiridos</h3>
             <li>Loaders y Plugins</li>
@@ -127,13 +121,15 @@
             <li>Herramientas de desarrollo</li>
           </ul>
         </div>
-      </div>
-      <div class="diplome__container">
-        <div class="diplome__title">
-          <h2>Curso de React Js</h2>
-          <img class="diplome" src="/assets/diplomas/react.jpg" alt="" />
+        <div class="three">
+          <img class="diplome" src="/assets/diplomas/webpack.jpg" alt="" />
         </div>
-        <div class="diplome__info">
+      </div>
+      <div class="wrapper2">
+        <div class="one2">
+          <h2>Curso de React Js</h2>
+        </div>
+        <div class="two2">
           <ul>
             <h3>Conocimientos Adquiridos</h3>
             <li>Crear una Aplicación con React JS</li>
@@ -142,13 +138,15 @@
             <li>Usar React Tools</li>
           </ul>
         </div>
-      </div>
-      <div class="diplome__container">
-        <div class="diplome__title">
-          <h2>Curso de Git y Github</h2>
-          <img class="diplome" src="/assets/diplomas/git.jpg" alt="" />
+        <div class="three2">
+          <img class="diplome" src="/assets/diplomas/react.jpg" alt="" />
         </div>
-        <div class="diplome__info">
+      </div>
+      <div class="wrapper">
+        <div class="one">
+          <h2>Curso de Git y Github</h2>
+        </div>
+        <div class="two">
           <ul>
             <h3>Conocimientos Adquiridos</h3>
             <li>Comandos básicos en Git</li>
@@ -156,6 +154,9 @@
             <li>Trabajando con repositorios remotos en GitHub</li>
             <li>Multiples entornos de trabajo en Git</li>
           </ul>
+        </div>
+        <div class="three">
+          <img class="diplome" src="/assets/diplomas/git.jpg" alt="" />
         </div>
       </div>
       <div class="diplome__container">
