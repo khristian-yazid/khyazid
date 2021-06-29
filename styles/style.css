@@ -117,15 +117,24 @@ body {
 }
 
 .main__cursos {
+  margin-top: 80px;
   grid-row: 2;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-auto-rows: minmax(100px, auto);
 }
 
+.section__title{
+  grid-column: 2;
+  grid-row: 1;
+  display: flex;
+  justify-content: center;
+  color: #fff;
+}
+
 .cursos__container {
   grid-column: 1;
-  grid-row: 1;
+  grid-row: 2;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -145,7 +154,7 @@ body {
 
 .cursos__container2{
   grid-column: 2;
-  grid-row: 1;
+  grid-row: 2;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -161,7 +170,7 @@ body {
 
 .cursos__container3{
   grid-column: 3;
-  grid-row: 1;
+  grid-row: 2;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -177,7 +186,7 @@ body {
 
 .cursos__container4{
   grid-column: 1;
-  grid-row: 2;
+  grid-row: 3;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -193,7 +202,7 @@ body {
 
 .cursos__container5{
   grid-column: 2;
-  grid-row: 2;
+  grid-row: 3;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -209,7 +218,7 @@ body {
 
 .cursos__container6{
   grid-column: 3;
-  grid-row: 2;
+  grid-row: 3;
   display: flex;
   flex-direction: column;
   align-items: center;
