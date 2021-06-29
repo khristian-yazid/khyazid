@@ -1,85 +1,60 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="shortcut icon" type="image/png" href="./assets/favicon.png" />
-    <link rel="stylesheet" href="./styles/style.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;900&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Roboto+Mono:wght@600&display=swap"
       rel="stylesheet"
     />
+    <link rel="shortcut icon" type="image/png" href="./assets/favicon.png" />
+    <link rel="stylesheet" href="/styles/style.css" />
     <title>Khyazid</title>
   </head>
   <body>
     <header class="header">
-      <img class="header__img" src="./assets/logoKhT.png" alt="" />
-      <div class="header__container-info">
-        <a href="">Biografía</a>
-        <a href="">Cursos</a>
-        <a href="">proyectos</a>
-        <a href="">Contactame</a>
+      <div class="header__logo">
+        <img src="/assets/logoKhT.png" alt="" />
+      </div>
+      <div class="header__links">
+        <a class="links__name" href="">Biografía</a>
+        <a class="links__name" href="">Cursos</a>
+        <a class="links__name" href="">Proyectos</a>
+        <a class="links__name" href="">Contactame</a>
       </div>
     </header>
     <main class="main">
-      <div class="main__container--perfil">
-        <div class="main__name">
-          <h1>
-            Khristian
-            <br />
-            <span>Ali</span>
-          </h1>
-        </div>
-      </div>
-      <div class="profile__picture">
-        <img class="ppicture" src="/assets/kh2 (2).jpg" alt="" />
-      </div>
-      <div class="main__container--info">
-        <div class="main__info">
-          <p>
-            Hola Mi nombre es Khristian, Mi interés en el desarrollo web comenzó
-            en 2014 cuando decidi aprender sobre como estaban creadas las
-            paginas web. esto me llevo a aprender sobre html y css tiempo
-            despues aprendi sobre javascript y en 2020 aprendi sobre react
-          </p>
-          <p></p>
-          <div class="info__title">
-            <img class="skills__picture" src="/assets/react.png" alt="" />
-            <img class="skills__picture" src="/assets/js.png" alt="" />
-            <img class="skills__picture" src="/assets/html.png" alt="" />
-            <img class="skills__picture" src="/assets/css.svg" alt="" />
+      <div class="main__bio">
+        <div class="main__bio--container">
+          <div class="bio__name">
+            <h1>Khristian <br /><span>Ali</span></h1>
+          </div>
+          <div class="bio__text">
+            <p>
+              Hola Mi nombre es Khristian, Mi interés en el desarrollo web
+              comenzó en 2014 cuando decidi aprender sobre como estaban creadas
+              las paginas web. esto me llevo a aprender sobre html y css tiempo
+              despues aprendi sobre javascript y en 2020 aprendi sobre react
+            </p>
+            <div class="bio__skills--container">
+              <div class="skills__pictures">
+                <img src="/assets/html.png" alt="" />
+                <img src="/assets/css.svg" alt="" />
+                <img src="/assets/js.png" alt="" />
+                <img src="/assets/react.png" alt="" />
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-    </main>
-    <section class="section">
-      <div class="wrapper2">
-        <div class="one2">
-          <h2>Curso Profesional de JavaScript</h2>
-        </div>
-        <div class="three2">
-          <img
-          class="diplome"
-          src="/assets/diplomas/javascriptpro.jpg"
-          alt=""
-        />
-        </div>
-        <div class="two2">
-          <ul>
-            <h3>Conocimientos Adquiridos</h3>
-            <li>Como Funciona JavaScript</li>
-            <li>APIs del DOM</li>
-            <li>TypeScript</li>
-            <li>Patrones de Diseño</li>
-          </ul>
+        <div class="bio__img">
+          <img src="/assets/kh2 (2).jpg" alt="" />
         </div>
       </div>
-      <div class="wrapper">
-        <div class="one">
-          <h2>Curso de FrontEnd Developer</h2>
-        </div>
-        <div class="two">
-          <ul>
+      <div class="main__cursos">
+        <div class="cursos__container">
+          <h2>Curso De FrontEnd Developer</h2>
+          <img src="/assets/diplomas/frontend.jpg" alt="" />
+          <ul class="cursos__descripcion">
             <h3>Conocimientos Adquiridos</h3>
             <li>HTML</li>
             <li>CSS</li>
@@ -87,49 +62,20 @@
             <li>Maquetación y diseño responsivo</li>
           </ul>
         </div>
-        <div class="three">
-          <img class="diplome" src="/assets/diplomas/frontend.jpg" alt="" />
-        </div>
-      </div>
-      <div class="wrapper2">
-        <div class="one2">
-          <h2>Curso de BackEnd con Node.js</h2>
-        </div>
-        <div class="three2">
-          <img class="diplome" src="/assets/diplomas/node.jpg" alt="" />
-        </div>
-        <div class="two2">
-          <ul>
+        <div class="cursos__container2">
+          <h2>Curso Profesional de JavaScript</h2>
+          <img src="/assets/diplomas/javascriptpro.jpg" alt="" />
+          <ul class="cursos__descripcion">
             <h3>Conocimientos Adquiridos</h3>
-            <li>Manejo y uso de Streams con Node.js</li>
-            <li>crear un API con REST</li>
-            <li>conectar librerías externas en Express.js</li>
-            <li>Middleware en Express.js</li>
+            <li>Como Funciona JavaScript</li>
+            <li>APIs del DOM</li>
+            <li>TypeScript</li>
+            <li>Patrones de Diseño</li>
           </ul>
         </div>
-      </div>
-      <div class="wrapper">
-        <div class="one">
-          <h2>Curso de webpack</h2>
-        </div>
-        <div class="two">
-          <ul>
-            <h3>Conocimientos Adquiridos</h3>
-            <li>Loaders y Plugins</li>
-            <li>Herramientas de desarrollo</li>
-            <li>Integración con React.js</li>
-            <li>Herramientas de desarrollo</li>
-          </ul>
-        </div>
-        <div class="three">
-          <img class="diplome" src="/assets/diplomas/webpack.jpg" alt="" />
-        </div>
-      </div>
-      <div class="wrapper2">
-        <div class="one2">
+        <div class="cursos__container3">
           <h2>Curso de React Js</h2>
-        </div>
-        <div class="two2">
+          <img src="/assets/diplomas/react.jpg" alt="" />
           <ul>
             <h3>Conocimientos Adquiridos</h3>
             <li>Crear una Aplicación con React JS</li>
@@ -138,15 +84,20 @@
             <li>Usar React Tools</li>
           </ul>
         </div>
-        <div class="three2">
-          <img class="diplome" src="/assets/diplomas/react.jpg" alt="" />
+        <div class="cursos__container4">
+          <h2>Curso de webpack</h2>
+          <img src="/assets/diplomas/webpack.jpg" alt="" />
+          <ul>
+            <h3>Conocimientos Adquiridos</h3>
+            <li>Loaders y Plugins</li>
+            <li>Herramientas de desarrollo</li>
+            <li>Integración con React.js</li>
+            <li>Herramientas de desarrollo</li>
+          </ul>
         </div>
-      </div>
-      <div class="wrapper">
-        <div class="one">
+        <div class="cursos__container5">
           <h2>Curso de Git y Github</h2>
-        </div>
-        <div class="two">
+          <img src="/assets/diplomas/git.jpg" alt="" />
           <ul>
             <h3>Conocimientos Adquiridos</h3>
             <li>Comandos básicos en Git</li>
@@ -155,19 +106,23 @@
             <li>Multiples entornos de trabajo en Git</li>
           </ul>
         </div>
-        <div class="three">
-          <img class="diplome" src="/assets/diplomas/git.jpg" alt="" />
+        <div class="cursos__container6">
+          <h2>Escuela De JavaScript De Platzi</h2>
+          <img src="/assets/diplomas/ejs.jpg" alt="" />
+          <ul>
+            <h3>Conocimientos Adquiridos</h3>
+            <li>
+              Conocer el lenguaje Javascript, desarrollando rutinas y programas
+              básicos.
+            </li>
+            <li>Desarrollar sitios web estáticos usando HTML y CSS.</li>
+            <li>
+              Agregar capacidades de interactividad con JavaScript usando React,
+              React Router y Redux.
+            </li>
+          </ul>
         </div>
       </div>
-      <div class="diplome__container">
-        <div class="diplome__title">
-          <h2>Escuela de JavaScript</h2>
-          <img class="diplome" src="/assets/diplomas/ejs.jpg" alt="" />
-        </div>
-      </div>
-    </section>
-    <footer>
-      <p>Designed & Build by khyazid</p>
-    </footer>
+    </main>
   </body>
 </html>
