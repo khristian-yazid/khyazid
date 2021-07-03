@@ -137,23 +137,23 @@
         <div class="contact__container">
           <h2>Contacto</h2>
           <div class="box__form">
-            <form class="contacto__form" action="">
+            <form  id="form" class="contacto__form" action="">
               <fieldset class="contact__program">
                 <div class="contact__box">
                   <img class="form__img" src="https://i.ibb.co/Y8hZDmc/user.png" alt="" />
-                  <input class="form__input" type="text" placeholder="Nombre" />
+                  <input name="name" id="name" class="form__input" type="text" placeholder="Nombre" />
                 </div>
               </fieldset>
               <fieldset class="contact__program">
                 <div class="contact__box">
                   <img class="form__img" src="https://i.ibb.co/Rh9JBmR/email.png" alt="" />
-                  <input class="form__input" type="email" placeholder="Email" />
+                  <input name="email" id="email" class="form__input" type="email" placeholder="Email" />
                 </div>
               </fieldset>
               <fieldset class="contact__program--textarea">
                 <textarea
-                  name=""
-                  id=""
+                  name="message"
+                  id="message"
                   cols="37"
                   rows="10"
                   placeholder="Deja Tu Comentario"
@@ -163,6 +163,7 @@
                 <button type="submit">Enviar</button>
               </div>
             </form>
+            <a class="send__mail" id="send__mail" href="mailto:khristian-yazid1@hotmail.com">mail</a>
           </div>
         </div>
       </div>
@@ -170,5 +171,18 @@
     <footer>
       <h2>Designed & Built by Khristian Ali</h2>
     </footer>
+    <script>
+      const $formu = document.querySelector('#form')
+      const $buttonMailTo = document.querySelector('#send__mail')
+
+      $formu.addEventListener('submit', handleSubmit)
+
+      function handleSubmit(event) {
+        event.preventDefault()
+        const form = new FormData(this)
+        $buttonMailTo.setAttribute('href', `mailto:khristian-yazid1@hotmail.com?subject=Nombre ${form.get('name')} Correo ${form.get('email')}&body=${form.get('message')}`)
+        $buttonMailTo.click()
+      }
+    </script>
   </body>
 </html>

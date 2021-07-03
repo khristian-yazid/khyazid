@@ -294,6 +294,7 @@ height: 33px;
 .form__input {
   width: 80%;
   height: 30px;
+  border-radius: 6px;
 }
 
 .contact__program--textarea {
@@ -317,6 +318,10 @@ height: 33px;
   height: 32px;
   width: 70px;
   box-shadow: 8px 8px 8px 8px rgb(0 0 0 / 20%);
+}
+
+.send__mail{
+  opacity: 0;
 }
 
 footer {
