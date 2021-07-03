@@ -7,7 +7,11 @@
       href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Roboto+Mono:wght@600&display=swap"
       rel="stylesheet"
     />
-    <link rel="shortcut icon" type="image/png" href="https://i.ibb.co/VjLhGSd/logoKhT.png" />
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="https://i.ibb.co/VjLhGSd/logoKhT.png"
+    />
     <link rel="stylesheet" href="/styles/style.css" />
     <title>Khyazid</title>
   </head>
@@ -16,11 +20,16 @@
       <div class="header__logo">
         <img src="https://i.ibb.co/VjLhGSd/logoKhT.png" alt="" />
       </div>
+      <div class="social__media">
+        <a href="https://github.com/khristian-yazid"><img src="/assets/git1.png" alt=""></a>
+        <a href="https://www.linkedin.com/in/khristian-yazid-ali-yaguare-b4754620b/"><img src="/assets/linked.png" alt=""></a>
+        <a href="https://twitter.com/khr_yazid"><img src="/assets/twitter.png" alt=""></a>
+      </div>
       <div class="header__links">
         <a class="links__name" href="#Bio">Biografía</a>
         <a class="links__name" href="#Cursos">Cursos</a>
         <a class="links__name" href="">Proyectos</a>
-        <a class="links__name" href="">Contactame</a>
+        <a class="links__name" href="#Cont">Contactame</a>
       </div>
     </header>
     <main class="main">
@@ -47,11 +56,11 @@
           </div>
         </div>
         <div class="bio__img">
-          <img  src="https://i.ibb.co/HFR5SN2/kh2-2.jpg" alt="kh2-2" alt="" />
+          <img src="https://i.ibb.co/HFR5SN2/kh2-2.jpg" alt="kh2-2" alt="" />
         </div>
       </div>
       <div class="main__cursos">
-        <h1 id="Cursos" class="section__title" >Cursos</h1>
+        <h1 id="Cursos" class="section__title">Cursos</h1>
         <div class="cursos__container">
           <h2>Curso De FrontEnd Developer</h2>
           <img src="https://i.ibb.co/2cXwvQ0/frontend.jpg" alt="" />
@@ -124,6 +133,42 @@
           </ul>
         </div>
       </div>
+      <div id="Cont" class="main__contact">
+        <div class="contact__container">
+          <h2>Contacto</h2>
+          <div class="box__form">
+            <form class="contacto__form" action="">
+              <fieldset class="contact__program">
+                <div class="contact__box">
+                  <img class="form__img" src="/assets/user.png" alt="" />
+                  <input class="form__input" type="text" placeholder="Nombre" />
+                </div>
+              </fieldset>
+              <fieldset class="contact__program">
+                <div class="contact__box">
+                  <img class="form__img" src="/assets/email.png" alt="" />
+                  <input class="form__input" type="email" placeholder="Email" />
+                </div>
+              </fieldset>
+              <fieldset class="contact__program--textarea">
+                <textarea
+                  name=""
+                  id=""
+                  cols="37"
+                  rows="10"
+                  placeholder="Deja Tu Comentario"
+                ></textarea>
+              </fieldset>
+              <div class="form__submit">
+                <button type="submit">Enviar</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
     </main>
+    <footer>
+      <h2>Designed & Built by Khristian Ali</h2>
+    </footer>
   </body>
 </html>
