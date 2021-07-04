@@ -21,9 +21,16 @@
         <img src="https://i.ibb.co/VjLhGSd/logoKhT.png" alt="" />
       </div>
       <div class="social__media">
-        <a href="https://github.com/khristian-yazid"><img src="https://i.ibb.co/s2SxTdb/git1.png" alt=""></a>
-        <a href="https://www.linkedin.com/in/khristian-yazid-ali-yaguare-b4754620b/"><img src="https://i.ibb.co/YRncMpP/linked.png" alt=""></a>
-        <a href="https://twitter.com/khr_yazid"><img src="https://i.ibb.co/Dt50npN/twitter.png" alt=""></a>
+        <a href="https://github.com/khristian-yazid"
+          ><img src="https://i.ibb.co/s2SxTdb/git1.png" alt=""
+        /></a>
+        <a
+          href="https://www.linkedin.com/in/khristian-yazid-ali-yaguare-b4754620b/"
+          ><img src="https://i.ibb.co/YRncMpP/linked.png" alt=""
+        /></a>
+        <a href="https://twitter.com/khr_yazid"
+          ><img src="https://i.ibb.co/Dt50npN/twitter.png" alt=""
+        /></a>
       </div>
       <div class="header__links">
         <a class="links__name" href="#Bio">Biografía</a>
@@ -59,8 +66,8 @@
           <img src="https://i.ibb.co/HFR5SN2/kh2-2.jpg" alt="kh2-2" alt="" />
         </div>
       </div>
+      <h1 id="Cursos" class="section__title">Cursos</h1>
       <div class="main__cursos">
-        <h1 id="Cursos" class="section__title">Cursos</h1>
         <div class="cursos__container">
           <h2>Curso De FrontEnd Developer</h2>
           <img src="https://i.ibb.co/2cXwvQ0/frontend.jpg" alt="" />
@@ -72,7 +79,7 @@
             <li>Maquetación y diseño responsivo</li>
           </ul>
         </div>
-        <div class="cursos__container2">
+        <div class="cursos__container">
           <h2>Curso Profesional de JavaScript</h2>
           <img src="https://i.ibb.co/8snBn8W/javascriptpro.jpg" alt="" />
           <ul class="cursos__descripcion">
@@ -83,7 +90,7 @@
             <li>Patrones de Diseño</li>
           </ul>
         </div>
-        <div class="cursos__container3">
+        <div class="cursos__container">
           <h2>Curso de React Js</h2>
           <img src="https://i.ibb.co/jGqXgtK/react.jpg" alt="" />
           <ul>
@@ -94,7 +101,7 @@
             <li>Usar React Tools</li>
           </ul>
         </div>
-        <div class="cursos__container4">
+        <div class="cursos__container">
           <h2>Curso de webpack</h2>
           <img src="https://i.ibb.co/RcS0rtW/webpack.jpg" alt="" />
           <ul>
@@ -105,7 +112,7 @@
             <li>Herramientas de desarrollo</li>
           </ul>
         </div>
-        <div class="cursos__container5">
+        <div class="cursos__container">
           <h2>Curso de Git y Github</h2>
           <img src="https://i.ibb.co/7tm1RMs/git.jpg" alt="" />
           <ul>
@@ -116,7 +123,7 @@
             <li>Multiples entornos de trabajo en Git</li>
           </ul>
         </div>
-        <div class="cursos__container6">
+        <div class="cursos__container">
           <h2>Escuela De JavaScript De Platzi</h2>
           <img src="https://i.ibb.co/8r09BQz/ejs.jpg" alt="" />
           <ul>
@@ -137,17 +144,37 @@
         <div class="contact__container">
           <h2>Contacto</h2>
           <div class="box__form">
-            <form  id="form" class="contacto__form" action="">
+            <form id="form" class="contacto__form" action="">
               <fieldset class="contact__program">
                 <div class="contact__box">
-                  <img class="form__img" src="https://i.ibb.co/Y8hZDmc/user.png" alt="" />
-                  <input name="name" id="name" class="form__input" type="text" placeholder="Nombre" />
+                  <img
+                    class="form__img"
+                    src="https://i.ibb.co/Y8hZDmc/user.png"
+                    alt=""
+                  />
+                  <input
+                    name="name"
+                    id="name"
+                    class="form__input"
+                    type="text"
+                    placeholder="Nombre"
+                  />
                 </div>
               </fieldset>
               <fieldset class="contact__program">
                 <div class="contact__box">
-                  <img class="form__img" src="https://i.ibb.co/Rh9JBmR/email.png" alt="" />
-                  <input name="email" id="email" class="form__input" type="email" placeholder="Email" />
+                  <img
+                    class="form__img"
+                    src="https://i.ibb.co/Rh9JBmR/email.png"
+                    alt=""
+                  />
+                  <input
+                    name="email"
+                    id="email"
+                    class="form__input"
+                    type="email"
+                    placeholder="Email"
+                  />
                 </div>
               </fieldset>
               <fieldset class="contact__program--textarea">
@@ -163,7 +190,12 @@
                 <button type="submit">Enviar</button>
               </div>
             </form>
-            <a class="send__mail" id="send__mail" href="mailto:khristian-yazid1@hotmail.com">mail</a>
+            <a
+              class="send__mail"
+              id="send__mail"
+              href="mailto:khristian-yazid1@hotmail.com"
+              >mail</a
+            >
           </div>
         </div>
       </div>
@@ -172,16 +204,21 @@
       <h2>Designed & Built by Khristian Ali</h2>
     </footer>
     <script>
-      const $formu = document.querySelector('#form')
-      const $buttonMailTo = document.querySelector('#send__mail')
+      const $formu = document.querySelector("#form");
+      const $buttonMailTo = document.querySelector("#send__mail");
 
-      $formu.addEventListener('submit', handleSubmit)
+      $formu.addEventListener("submit", handleSubmit);
 
       function handleSubmit(event) {
-        event.preventDefault()
-        const form = new FormData(this)
-        $buttonMailTo.setAttribute('href', `mailto:khristian-yazid1@hotmail.com?subject=Nombre ${form.get('name')} Correo ${form.get('email')}&body=${form.get('message')}`)
-        $buttonMailTo.click()
+        event.preventDefault();
+        const form = new FormData(this);
+        $buttonMailTo.setAttribute(
+          "href",
+          `mailto:khristian-yazid1@hotmail.com?subject=Nombre ${form.get(
+            "name"
+          )} Correo ${form.get("email")}&body=${form.get("message")}`
+        );
+        $buttonMailTo.click();
       }
     </script>
   </body>
