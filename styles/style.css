@@ -12,7 +12,7 @@ body {
   box-sizing: border-box;
   grid-row: 1;
   width: 90%;
- margin: 5px 75px 0px 75px;
+  margin: 5px 75px 0px 75px;
   height: 80px;
   display: flex;
   justify-content: space-between;
@@ -51,7 +51,6 @@ body {
   width: 30px;
   height: 30px;
 }
-
 
 .links__name {
   color: #fff;
@@ -141,10 +140,9 @@ body {
   transition: 0.3s;
 }
 
-.bio__img img:hover{
+.bio__img img:hover {
   transform: scale(1.05, 1.05);
 }
-
 
 .section__title {
   margin-top: 115px;
@@ -163,7 +161,7 @@ body {
   grid-auto-rows: minmax(100px, auto);
   grid-column-gap: 0px;
   grid-row-gap: 10px;
-  margin-left: 85px;
+  justify-content: center;
 }
 
 .cursos__container {
@@ -195,7 +193,6 @@ body {
 .main__contact {
   margin-top: 80px;
   grid-row: 4;
-  display: grid;
   display: flex;
   align-items: center;
   justify-content: center;
